@@ -1,4 +1,4 @@
-package UniStudyJava.Works;
+package UniTStudy.Works;
 
 public abstract class Z {
     protected int _zVal;

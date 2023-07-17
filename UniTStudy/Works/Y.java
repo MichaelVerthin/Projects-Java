@@ -1,4 +1,4 @@
-package UniStudyJava.Works;
+package UniTStudy.Works;
 
 public class Y extends Z {
     protected int _yVal;

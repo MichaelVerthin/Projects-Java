@@ -1,4 +1,4 @@
-package UniStudyJava.Works;
+package UniTStudy.Works;
 
 public class X extends Z {
     protected int _xVal;
